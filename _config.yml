@@ -16,11 +16,11 @@
 title: Veterans Readiness Group
 email: myusvrg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This site is the initial spot on the interwebs for the Veterans Readiness Group
+ A group of veterans who are on the path to help other veterans with obtaining 
+ a service dog due to PTSD and more great things planned for the future :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://myvrg.github.io" # the base hostname & protocol for your site
+url: "https://myvrg.github.io" # the base hostname & protocol for your site
 github_username:  myvrg
 
 # Build settings
