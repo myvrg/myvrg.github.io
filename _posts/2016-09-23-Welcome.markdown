@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to VRG!"
+date:   2016-09-23 20:00:00 -0400
+categories: welcome 
+---
+Welcome to the Veterans Readiness Group
+
+A group of Veterans who have set out to help other vets to obtain PTSD service dogs.
+
+The service dog program is just the beginning.
+
+In the future, we plan to work with several other Non-Profit Veteran groups.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
